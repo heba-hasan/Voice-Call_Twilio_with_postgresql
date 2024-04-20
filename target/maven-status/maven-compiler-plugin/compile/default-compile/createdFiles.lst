@@ -1,0 +1,3 @@
+com\mycompany\sms_voice_db\PostgreSql.class
+com\mycompany\sms_voice_db\SMS_VOICE_DB.class
+com\mycompany\sms_voice_db\Sendsms.class
